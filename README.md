@@ -24,8 +24,8 @@ A RESTful API for a simple blog application built with Node.js, Express.js, and 
 1. **Clone the Project Repository**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/dmytromn21/blog-api-node-test
+   cd blog-api-node-test
    ```
 
 2. **Install Dependencies**
